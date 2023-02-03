@@ -4,7 +4,7 @@ Game appears to be in turbo mode! Running, jumping is like 80mph!
 
 Placing, breaking blocks causes a 3-5 blocks remove or add. Average is 5 blocks. Totally random, can't find a rhyme or reason, sometimes they stack on top of eachother, creating a S or corkscrew pattern, then sometimes it's a straight line with, it's always different. The least number of blocks I see added or removed is 2. Never just one though.
 
-It seems to me the game is detecting input as if I'm holding the 'Q' button even if I just barely tap it.
+It seems to me the game is detecting input as if I'm holding the 'Q' button even if I just barely tap it. Similar effect if I right click once to remove a block. 3-5 get removed whether it's blocks I placed or blocks generated.
 
 Not sure if the game speed and block placing issue are related, but seems like it?
 
