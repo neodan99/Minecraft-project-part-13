@@ -8,5 +8,7 @@ It seems to me the game is detecting input as if I'm holding the 'Q' button even
 
 Not sure if the game speed and block placing issue are related, but seems like it?
 
+Tried on two computers: 2020 macbook pro, m1 processor, 16 GB ram & also Surface pro 6 ~2019 / i5-825OU processor, 1.8 GHz, 8gb ram.
+
 ![placeblock](https://user-images.githubusercontent.com/34558649/216700193-a2367046-6bfb-45eb-910b-43e32e3b1f9a.JPG)
 ![placeblock2](https://user-images.githubusercontent.com/34558649/216700210-caba1108-2f26-475e-9925-03ef397b285c.JPG)
